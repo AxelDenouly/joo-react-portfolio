@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/joo-react-portfolio/static/css/main.c9ded8f9.css",
+    "main.js": "/joo-react-portfolio/static/js/main.60e97d1a.js",
+    "static/media/Logo__new.png": "/joo-react-portfolio/static/media/Logo__new.2064c81e3f62997881c9.png",
+    "static/media/Data_big.png": "/joo-react-portfolio/static/media/Data_big.fd39af60974aaac0db34.png",
+    "static/media/work-4.svg": "/joo-react-portfolio/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/Linux_image.png": "/joo-react-portfolio/static/media/Linux_image.b073e32c43186c08dc39.png",
+    "static/media/Kaali_linux.png": "/joo-react-portfolio/static/media/Kaali_linux.f410495586d5dd971d6d.png",
+    "static/media/work-3.svg": "/joo-react-portfolio/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/work-1.svg": "/joo-react-portfolio/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/work-6.svg": "/joo-react-portfolio/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/work-5.svg": "/joo-react-portfolio/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/avatar-2.svg": "/joo-react-portfolio/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/joo-react-portfolio/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/work-2.svg": "/joo-react-portfolio/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/Image1.svg": "/joo-react-portfolio/static/media/Image1.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/Image2.svg": "/joo-react-portfolio/static/media/Image2.3331d0a1cc29694657fdfaa3fe82b92d.svg",
+    "static/media/logo.svg": "/joo-react-portfolio/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
+    "static/media/dots-bg.svg": "/joo-react-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/joo-react-portfolio/index.html",
+    "main.c9ded8f9.css.map": "/joo-react-portfolio/static/css/main.c9ded8f9.css.map",
+    "main.60e97d1a.js.map": "/joo-react-portfolio/static/js/main.60e97d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ded8f9.css",
+    "static/js/main.60e97d1a.js"
+  ]
+}
