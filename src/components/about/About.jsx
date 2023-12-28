@@ -23,7 +23,7 @@ const About = () => {
             <p className="about__description">
               I'm Axel Denouly and a Computer Science lover. <br></br><br></br>I have always been interested in Computer Science and I aim to train in several fields such as Web Develpment, Mobile App Development, Ethical Hacking and Data Science.<br></br>For the moment I am training myself self-taught to acquire knowledge in web development and I would like to have a chance to improve myself from professionals in a company.
             </p>
-            <a href="../PDF/New_Responsive_Lebenslauf.pdf" download="New_Responsive_Lebenslauf.pdf" className="btn">
+            <a href="../public/New_Responsive_Lebenslauf.pdf" download="New_Responsive_Lebenslauf.pdf" className="btn">
               Download CV
             </a>
           </div>
